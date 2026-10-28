@@ -1,0 +1,11 @@
+{
+  "geode": "GEODE_SDK_VERSION",
+  "gd": {
+    "android": "2.208"
+  },
+  "id": "echo.replay-engine",
+  "name": "Echo Replay Engine",
+  "version": "v0.1.0",
+  "developer": "EchoDev",
+  "description": "Experimental attempt recorder and ghost replay prototype"
+}
